@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 霄岚侠客</title>
+    <link>https://XIAOLAN-design.github.io/posts/</link>
+    <description>Recent content in Posts on 霄岚侠客</description>
+    <image>
+      <title>霄岚侠客</title>
+      <url>https://XIAOLAN-design.github.io/images/papermod-cover.png</url>
+      <link>https://XIAOLAN-design.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.121.2</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://XIAOLAN-design.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Factor Models Introduction draft</title>
+      <link>https://XIAOLAN-design.github.io/posts/factor_model/</link>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://XIAOLAN-design.github.io/posts/factor_model/</guid>
+      <description>Literature Review of Multi-factor Models</description>
+    </item>
+    <item>
+      <title>Research Experience</title>
+      <link>https://XIAOLAN-design.github.io/posts/research_experience/</link>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://XIAOLAN-design.github.io/posts/research_experience/</guid>
+      <description>will extend more</description>
+    </item>
+    <item>
+      <title>Emergence of Complex Skills in Language Model</title>
+      <link>https://XIAOLAN-design.github.io/posts/emergence/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://XIAOLAN-design.github.io/posts/emergence/</guid>
+      <description>Deep Exploration of Theory on Emergence of Large Language Model</description>
+    </item>
+  </channel>
+</rss>
